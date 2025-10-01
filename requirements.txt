@@ -1,0 +1,24 @@
+# Core
+pandas
+numpy
+python-dotenv
+
+# Optimization
+ortools
+
+# API
+fastapi
+uvicorn
+pydantic
+
+# AI / LLM / Agents
+langchain
+langchain-groq
+langgraph
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Testing
+pytest
